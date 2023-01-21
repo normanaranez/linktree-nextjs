@@ -1,0 +1,28 @@
+{
+    "name": "Norman Aranez",
+    "avatar": "https://scontent.fmnl25-2.fna.fbcdn.net/v/t39.30808-1/285072452_5069943739759857_2621255334656116791_n.jpg?stp=dst-jpg_p160x160&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGxHp1G2Fd0MiM_kIEtrE9DRfo63LleIwZF-jrcuV4jBnp64L4wOCmTgXNMv8KPI_xpjoCtIghalHsMgRNBAH83&_nc_ohc=K3zir9x0AGsAX_ZCe9F&_nc_ht=scontent.fmnl25-2.fna&oh=00_AfA1xiF0dig8sfUWDjlxqdYVoF1mtpcR0P6WAPsQmZ2xLg&oe=63CFC886",
+    "links": [
+        {
+            "title": "My Personal Site",
+            "url": "#",
+            "image": "https://images.pexels.com/photos/13072621/pexels-photo-13072621.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
+        },
+        {
+            "title": "Vercel.com",
+            "url": "https://vercel.com",
+            "image": "https://images.pexels.com/photos/13766882/pexels-photo-13766882.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
+        }
+    ],
+    "socials": [
+        {
+            "title": "Twitter",
+            "url": "#",
+            "image": "https://images.pexels.com/photos/6431572/pexels-photo-6431572.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
+        },
+        {
+            "title": "Facebook",
+            "url": "#",
+            "image": "https://images.pexels.com/photos/15113967/pexels-photo-15113967.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
+        }
+    ]
+}
